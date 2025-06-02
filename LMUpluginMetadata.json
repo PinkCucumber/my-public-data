@@ -7,15 +7,5 @@
   "position": 32,
   "anzahl_pitstopps": 0,
   "spiel_phase": 8,
-<<<<<<< HEAD
-  "session": 1,
-  "rundenzeiten": []
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> dd70897 (Update LMUplugin.json)
-=======
   "session": 1
 }
->>>>>>> 0d3f549 (Update LMUpluginMetadata and LMUpluginLaptimes)
