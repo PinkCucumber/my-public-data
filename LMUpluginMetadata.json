@@ -1,10 +1,10 @@
 {
-  "aktuelle_runde": 2,
-  "letzte_rundenzeit": -1.0,
-  "beste_rundenzeit": -1.0,
+  "aktuelle_runde": 3,
+  "letzte_rundenzeit": 167.19854736328125,
+  "beste_rundenzeit": 167.19854736328125,
   "fahrer": "Josef Bien",
   "fahrzeug": "D'Station Racing 2024 #777:EC",
-  "position": 32,
+  "position": 30,
   "anzahl_pitstopps": 0,
   "spiel_phase": 5,
   "session": 1
