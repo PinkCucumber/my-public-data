@@ -1,10 +1,10 @@
 {
-  "aktuelle_runde": 4,
-  "letzte_rundenzeit": 112.64602661132812,
-  "beste_rundenzeit": 112.64602661132812,
+  "aktuelle_runde": 6,
+  "letzte_rundenzeit": -1.0,
+  "beste_rundenzeit": 111.92758178710938,
   "fahrer": "Josef Bien",
   "fahrzeug": "Proton Racing 2024 #77:WEC",
-  "position": 16,
+  "position": 11,
   "anzahl_pitstopps": 0,
   "spiel_phase": 8,
   "session": 5
