@@ -1,10 +1,10 @@
 {
-  "aktuelle_runde": 1,
-  "letzte_rundenzeit": 0.0,
-  "beste_rundenzeit": -1.0,
+  "aktuelle_runde": 2,
+  "letzte_rundenzeit": 233.0794219970703,
+  "beste_rundenzeit": 233.0794219970703,
   "fahrer": "Josef Bien",
   "fahrzeug": "Alpine Endurance Team 2024 #36:LM",
-  "position": 22,
+  "position": 20,
   "anzahl_pitstopps": 0,
   "spiel_phase": 5,
   "session": 10
