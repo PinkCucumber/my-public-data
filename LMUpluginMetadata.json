@@ -1,11 +1,11 @@
 {
-  "aktuelle_runde": 6,
-  "letzte_rundenzeit": 98.130126953125,
-  "beste_rundenzeit": 98.130126953125,
-  "fahrer": "Josef Bien",
-  "fahrzeug": "GR Racing #86:BR",
-  "position": 2,
+  "aktuelle_runde": 1,
+  "letzte_rundenzeit": 0.0,
+  "beste_rundenzeit": 0.0,
+  "fahrer": "",
+  "fahrzeug": "",
+  "position": 0,
   "anzahl_pitstopps": 0,
-  "spiel_phase": 8,
-  "session": 1
+  "spiel_phase": 0,
+  "session": 0
 }
